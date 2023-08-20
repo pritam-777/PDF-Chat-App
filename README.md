@@ -8,8 +8,9 @@
 
 
 
-Uploading Ask your PDF - Personal - Microsoft_ Edge 2023-08-21 00-13-29 (1).mp4…
 
+
+https://github.com/pritam-777/PDF-Chat-App/assets/52121048/f90ebd55-d789-4e97-8dd7-dcbbeae8db70
 
 
 **APPLICATION URL**:https://pdf-chat-app-8wqfnrlw3raclwwuzkcv2w.streamlit.app/

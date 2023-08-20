@@ -2,13 +2,15 @@
 
 # Langchain Ask PDF 
 
-**SCRENCAST CODEBASE ViDEO**:
+**SCRENCAST CODEBASE VIDEO**:
+
+https://github.com/pritam-777/PDF-Chat-App/assets/52121048/8b9a5e54-b7ff-47b9-9800-e4203049d6b1
+
+
+
+
 
 **APP DEMO**:
-
-
-
-
 
 https://github.com/pritam-777/PDF-Chat-App/assets/52121048/f90ebd55-d789-4e97-8dd7-dcbbeae8db70
 

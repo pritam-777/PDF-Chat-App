@@ -1,6 +1,6 @@
 ﻿# PDF-Chat-App
 
-# Langchain Ask PDF 
+
 
 **SCRENCAST CODEBASE VIDEO**:
 

@@ -2,9 +2,13 @@
 
 
 
-**SCRENCAST CODEBASE VIDEO**:
+**SCRENCAST CODEBASE VIDEO**
 
 https://github.com/pritam-777/PDF-Chat-App/assets/52121048/8b9a5e54-b7ff-47b9-9800-e4203049d6b1
+
+
+**SCRENCAST CODEBASE LOOM VIDEO LINK**:
+https://www.loom.com/share/c177b14579ef45c18c5177304277ca10?sid=35dc6c78-9180-48e9-93df-e7f6da835ea4
 
 
 
@@ -51,4 +55,4 @@ streamlit run app.py
 
 
 
-#App URL : 
+Thank You 
